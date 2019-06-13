@@ -5,6 +5,7 @@ import UserForm from "./UserForm"
 const UserProfile = () => (
   <>
     <User />
+    <br />
     <UserForm />
   </>
 )
